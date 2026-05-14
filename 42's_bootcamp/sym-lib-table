@@ -1,4 +1,4 @@
 (sym_lib_table
-  (version 7)
-  (lib (name "pkorsako_library")(type "KiCad")(uri "/home/paul/42_projects/bootcamp-elec/pkorsako_library.kicad_sym")(options "")(descr ""))
+	(version 7)
+	(lib (name "pkorsako_library") (type "KiCad") (uri "/home/pkorsako/bootcamp_elec/pkorsako_library.kicad_sym") (options "") (descr ""))
 )
