@@ -6,7 +6,7 @@
 	(property "Reference" "REF**"
 		(at 0 -5.975 0)
 		(layer "F.SilkS")
-		(uuid "ac3e5725-4c9e-45b3-9834-326b0b136358")
+		(uuid "078cd0c5-98a6-47dc-b49d-e65b2eef3b4c")
 		(effects
 			(font
 				(size 1 1)
@@ -17,7 +17,7 @@
 	(property "Value" "TQFP-32_7x7_Pitch0.8mm"
 		(at 0 5.975 0)
 		(layer "F.Fab")
-		(uuid "9f89fd7b-b550-4fc5-83b8-df561338f08b")
+		(uuid "72e67c7b-909a-42e4-9d76-2046629ede0d")
 		(effects
 			(font
 				(size 1 1)
@@ -29,7 +29,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "4fc2a672-87f4-41ed-a44d-68671f8438c4")
+		(uuid "0d5e27eb-50a7-4f8a-b639-fa9c7950984c")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -40,7 +40,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "9e6222f4-b32d-4cef-bcb6-6d4a7ce2c420")
+		(uuid "cc96e114-1d51-449f-b479-6c51494a97bd")
 		(effects
 			(font
 				(size 1.27 1.27)
